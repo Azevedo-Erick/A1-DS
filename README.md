@@ -1,6 +1,6 @@
 # A1 - Estruturas de Dados
 
-Primeira avaliação da disciplina de estruturas de dados ministrada pelo professor [Silvano Maneck Malfatti](https://github.com/malfattito/NossaListaLigada).
+Primeira avaliação da disciplina de estruturas de dados ministrada pelo professor [Silvano Maneck Malfatti](https://github.com/malfattito).
 
 
 
